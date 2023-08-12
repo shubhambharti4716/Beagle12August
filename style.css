@@ -1,0 +1,59 @@
+/* Css for all */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Css for all heading */
+h1{
+    display: inline;
+    border-bottom: 6px solid black;
+}
+
+/* Css for main blog */
+#blog-container {
+    padding: 62px 40px;
+    margin: 47px 47px 0 38px ;
+    border: 2px solid black;
+    font-size: 2.15em;
+}
+#blog-container h1 {
+    margin-bottom: 20px;
+    font-size: 1.51em;
+}
+
+/* Css for Image section */
+#image-container{
+    margin: 40px 0 0 58px ;
+    font-size: 2.1em;
+}
+#image-container h1{
+    font-size: 1.51em;
+}
+#image-container img{
+    padding-top: 55px;
+    width: 1051px;
+    height: 762px;
+    margin-bottom: 20px;
+}
+
+/* Css for trivia section */
+#trivia-container{
+    margin: 35px 47px 97px 58px;
+    font-size: 2.1em;
+}
+
+#trivia-container h1 {
+    font-size: 1.51em;
+}
+
+ol{
+    padding: 20px 0 0 50px;
+}
+li{
+    margin-top: 20px;
+    font-size: 32px;
+}
