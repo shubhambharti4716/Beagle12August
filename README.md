@@ -16,6 +16,8 @@ The beagle is intelligent and is a popular pet due to its size, good temper, and
 
 ![image](https://github.com/shubhambharti4716/Beagle12August/assets/107488607/c0584c49-8312-47a4-90fb-052a61968063)
 
+* More Images: https://www.google.com/search?q=beagle&rlz=1C5CHFA_enUS944US945&sxsrf=ALiCzsYi_xLzuX5-mgRt-U2UMiiEwhaCTA:1672839794160&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8ntha78AhVnDbcAHX7UCYYQ_AUoAXoECAEQAw&biw=1629&bih=894&dpr=2.2
+
 # Trivia: #
 
 * Height - 13–16 in (33–41 cm)
