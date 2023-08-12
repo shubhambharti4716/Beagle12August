@@ -16,8 +16,8 @@ The beagle is intelligent and is a popular pet due to its size, good temper, and
 
 # Trivia: #
 
-1 Height - 13–16 in (33–41 cm)
-2 Weight - 22–25 lb (10.0–11.3 kg)
-3 Coat -Short haired, hard coat of medium length
-4 Colour -Tricolor or white in combination with black & tan/brown or brown/tan
-5 Life span - 12–15 years
+* Height - 13–16 in (33–41 cm)
+* Weight - 22–25 lb (10.0–11.3 kg)
+* Coat -Short haired, hard coat of medium length
+* Colour -Tricolor or white in combination with black & tan/brown or brown/tan
+* Life span - 12–15 years
